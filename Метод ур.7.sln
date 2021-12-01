@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Метод ур.7", "Метод ур.8\Метод ур.7.csproj", "{5E2E58AD-1DD3-46CE-8D2D-E93E9B6A853F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "задание 7.2", "задание 7.2\задание 7.2.csproj", "{6EDF3424-319F-4CD1-9B1B-B34CE810AA1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E2E58AD-1DD3-46CE-8D2D-E93E9B6A853F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E2E58AD-1DD3-46CE-8D2D-E93E9B6A853F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E2E58AD-1DD3-46CE-8D2D-E93E9B6A853F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E2E58AD-1DD3-46CE-8D2D-E93E9B6A853F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EDF3424-319F-4CD1-9B1B-B34CE810AA1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EDF3424-319F-4CD1-9B1B-B34CE810AA1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EDF3424-319F-4CD1-9B1B-B34CE810AA1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EDF3424-319F-4CD1-9B1B-B34CE810AA1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A5A39A8-6E9A-4609-951A-4D93037808AF}
+	EndGlobalSection
+EndGlobal
